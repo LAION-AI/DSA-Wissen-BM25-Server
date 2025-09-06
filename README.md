@@ -1,8 +1,3 @@
-Perfekt, ich habe verstanden, was du möchtest: ein klares, kompaktes README, das erklärt, wie **Wissen aus der Wiki Aventurica** strukturiert wurde und was der **BM25-Server** damit macht. Ohne Marketing-Blabla, sondern auf den Punkt.
-
-Hier ist mein Vorschlag für dein `README.md`:
-
-````markdown
 # DSA-Wissen BM25-Server
 
 Dieses Projekt stellt einen BM25-basierten Suchserver für Wissen rund um **Das Schwarze Auge (DSA)** bereit.  
@@ -56,9 +51,3 @@ Ein Language Model kann so mit einem **Systemprompt** über Aventurien kombinier
 
 Das Projekt bildet die Grundlage, um **Language-Model-Agenten** zu befähigen, Aventurien-spezifisches Fachwissen **on the fly** abzurufen und für Abenteuer, Regelwerk-Fragen oder Spielleiter-Unterstützung nutzbar zu machen.
 
-```
-
----
-
-👉 Soll ich dir auch gleich noch einen **Usage-Abschnitt** mit Beispiel-Query gegen den BM25-Server (`curl` oder Python-Snippet) ins README schreiben, damit Leute sofort sehen, wie man es abfragt?
-```

@@ -1,0 +1,2 @@
+/mnt/md3/spirit/dsa/bm25-server/bm25_index/*.* filter=lfs diff=lfs merge=lfs -text
+bm25_index/* filter=lfs diff=lfs merge=lfs -text

@@ -1,7 +1,7 @@
 # DSA-Wissen BM25-Server
 
 Dieses Projekt stellt einen BM25-basierten Suchserver für Wissen rund um **Das Schwarze Auge (DSA)** bereit.  
-Die Daten stammen aus der **Wiki Aventurica** (https://de.wiki-aventurica.de) und wurden mithilfe von Large Language Models strukturiert aufbereitet.
+Die Daten stammen aus der **Wiki Aventurica** (https://de.wiki-aventurica.de) und wurden mithilfe von Gemini Flash 2.5 Lite strukturiert aufbereitet.
 
 ## Datenaufbereitung
 
